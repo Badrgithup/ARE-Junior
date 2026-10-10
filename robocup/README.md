@@ -187,8 +187,8 @@ Run the Admin desk and the Projector display on separate machines on the venue n
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Badrgithup/ARE-1.git
-cd ARE-1
+git clone https://github.com/Badrgithup/ARE-Junior.git
+cd ARE-Junior
 ```
 
 ---
@@ -277,7 +277,7 @@ When viewing `/projector` or `/tournament/[id]/projector`, control the audience 
 ## 📁 Project Directory Structure
 
 ```text
-ARE-1/
+ARE-Junior/
 ├── README.md                          # Repository documentation
 ├── .gitignore                         # Git ignore configuration
 ├── robocup-game-selection-spec.md     # Official tournament game specifications
